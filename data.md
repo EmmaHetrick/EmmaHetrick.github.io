@@ -14,6 +14,6 @@ permalink: /data/
 {% for novels in site.data.end-19c-epi %}
   <li>
     <strong>{{ novels.title }}</strong>
-    </li>
+  </li>
 {% endfor %}
 </ul>
