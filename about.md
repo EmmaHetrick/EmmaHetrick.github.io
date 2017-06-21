@@ -8,7 +8,7 @@ I am a rising senior at the University of Pennsylvania.
 
 ### More Information
 
-I study English and history.
+I study English and history. I have a dog.
 
 ### Contact me
 
